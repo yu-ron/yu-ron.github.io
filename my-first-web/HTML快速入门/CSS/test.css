@@ -1,0 +1,22 @@
+h1{
+    color: red;
+}
+.year{
+    color: #888;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+p{
+    text-indent: 35px;
+    /* 首行缩进样式 */
+    line-height: 30px;
+    /* 行高设置 */
+}
+#plast{
+    text-align: right;
+    /* text-align: ; */
+    /* 设置段落居中或居左右 */
+}
